@@ -1,0 +1,1692 @@
+1490451674314	geckodriver	INFO	Listening on 127.0.0.1:40721
+1490451675364	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zs7MF3QeRJFX
+1490451675366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490451675378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42201
+1490451676547	Marionette	INFO	Listening on port 42201
+1490451677071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490451742961	geckodriver	INFO	Listening on 127.0.0.1:47171
+1490451744034	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6UqXsKToQMyY
+1490451744035	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490451744039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42493
+1490451745305	Marionette	INFO	Listening on port 42493
+1490451745753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490451777928	geckodriver	INFO	Listening on 127.0.0.1:37409
+1490451778979	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lfVeG7hvzYCI
+1490451778980	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490451778984	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43733
+1490451785253	Marionette	INFO	Listening on port 43733
+1490451789492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490452068316	geckodriver	INFO	Listening on 127.0.0.1:41089
+1490452069372	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OrQc2mkJ516r
+1490452069374	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490452069379	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45421
+1490452070893	Marionette	INFO	Listening on port 45421
+1490452071393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453023584	geckodriver	INFO	Listening on 127.0.0.1:44697
+1490453024565	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4LWZ4JszIEnL
+1490453024567	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453024602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38003
+1490453025840	Marionette	INFO	Listening on port 38003
+1490453026286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453066431	geckodriver	INFO	Listening on 127.0.0.1:40717
+1490453067487	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.thxN95GXsUHU
+1490453067490	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453067494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42219
+1490453068655	Marionette	INFO	Listening on port 42219
+1490453069121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453094239	geckodriver	INFO	Listening on 127.0.0.1:33129
+1490453095286	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0LcIKt0hDQQL
+1490453095287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453095292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33859
+1490453096504	Marionette	INFO	Listening on port 33859
+1490453096919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453161718	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1490453191166	geckodriver	INFO	Listening on 127.0.0.1:50377
+1490453192241	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6TpK1YdCiLsy
+1490453192244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453192247	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41587
+1490453193367	Marionette	INFO	Listening on port 41587
+1490453193837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453229335	geckodriver	INFO	Listening on 127.0.0.1:33939
+1490453230389	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.US22Og7mqqle
+1490453230390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453230394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44983
+1490453231535	Marionette	INFO	Listening on port 44983
+1490453231999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490453256130	geckodriver	INFO	Listening on 127.0.0.1:39361
+1490453257184	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QzXXl9diKgs5
+1490453257186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453257191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36029
+1490453258414	Marionette	INFO	Listening on port 36029
+1490453258882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1490453417286	geckodriver	INFO	Listening on 127.0.0.1:59211
+1490453418334	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kHd3vj1IJB7M
+1490453418335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453418338	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37415
+1490453419529	Marionette	INFO	Listening on port 37415
+1490453420044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490453633327	geckodriver	INFO	Listening on 127.0.0.1:57437
+1490453634381	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JQtkeKOCtdej
+1490453634382	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490453634392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46219
+1490453635793	Marionette	INFO	Listening on port 46219
+1490453636275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490454534144	geckodriver	INFO	Listening on 127.0.0.1:50615
+1490454535198	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0gVXn3E8d7Uo
+1490454535199	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454535203	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46393
+1490454536286	Marionette	INFO	Listening on port 46393
+1490454536695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490454680384	geckodriver	INFO	Listening on 127.0.0.1:41577
+1490454681432	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ej4SRFSxnpPu
+1490454681433	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454681436	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46411
+1490454682504	Marionette	INFO	Listening on port 46411
+1490454682890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490454710855	geckodriver	INFO	Listening on 127.0.0.1:53481
+1490454711903	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EBc0g6jz0yQv
+1490454711904	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454711906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38735
+1490454713027	Marionette	INFO	Listening on port 38735
+1490454713432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490454750943	geckodriver	INFO	Listening on 127.0.0.1:40343
+1490454752022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HPSSCZiFrlny
+1490454752023	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454752025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33139
+1490454753174	Marionette	INFO	Listening on port 33139
+1490454753763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490454851116	geckodriver	INFO	Listening on 127.0.0.1:55297
+1490454852204	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3Cc1tY7id7my
+1490454852206	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454852209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33537
+1490454853369	Marionette	INFO	Listening on port 33537
+1490454854915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490454898400	geckodriver	INFO	Listening on 127.0.0.1:41465
+1490454899470	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bml1Qcud7TKm
+1490454899471	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490454899473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44791
+1490454902724	Marionette	INFO	Listening on port 44791
+1490454903105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455078145	geckodriver	INFO	Listening on 127.0.0.1:36091
+1490455079194	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7B4gpG2Mij8a
+1490455079196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455079199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35213
+1490455080369	Marionette	INFO	Listening on port 35213
+1490455080820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455269315	geckodriver	INFO	Listening on 127.0.0.1:46513
+1490455270394	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ji0MQXx0godp
+1490455270396	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455270398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37213
+1490455271559	Marionette	INFO	Listening on port 37213
+1490455272579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455347521	geckodriver	INFO	Listening on 127.0.0.1:48831
+1490455348569	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fnvTcM8loTWe
+1490455348580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455348584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45995
+1490455349758	Marionette	INFO	Listening on port 45995
+1490455350183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455397961	geckodriver	INFO	Listening on 127.0.0.1:53719
+1490455399167	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ba8aZVhgHYWR
+1490455399170	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455399184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41735
+1490455400546	Marionette	INFO	Listening on port 41735
+1490455400978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455726844	geckodriver	INFO	Listening on 127.0.0.1:36995
+1490455727894	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PWHCH17Pv33W
+1490455727896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455727900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41093
+1490455729085	Marionette	INFO	Listening on port 41093
+1490455729501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455790323	geckodriver	INFO	Listening on 127.0.0.1:46299
+1490455791372	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UYDv9xqvh5R4
+1490455791373	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455791378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41039
+1490455792406	Marionette	INFO	Listening on port 41039
+1490455792851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455823246	geckodriver	INFO	Listening on 127.0.0.1:46659
+1490455824324	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yKCXgezcmpa1
+1490455824326	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455824330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44789
+1490455825360	Marionette	INFO	Listening on port 44789
+1490455825777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490455979470	geckodriver	INFO	Listening on 127.0.0.1:55013
+1490455980515	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6UfAmbwNqNbV
+1490455980518	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490455980523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44529
+1490455981629	Marionette	INFO	Listening on port 44529
+1490455982029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456045773	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490456060054	geckodriver	INFO	Listening on 127.0.0.1:58861
+1490456061204	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k77zedQ911Vm
+1490456061208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456061219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36467
+1490456062683	Marionette	INFO	Listening on port 36467
+1490456063254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456260270	geckodriver	INFO	Listening on 127.0.0.1:44547
+1490456261319	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4RDAUPT8L4RG
+1490456261320	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456261325	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33953
+1490456262467	Marionette	INFO	Listening on port 33953
+1490456262936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456349930	geckodriver	INFO	Listening on 127.0.0.1:33195
+1490456350975	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a64mzt616ITt
+1490456350977	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456350979	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40249
+1490456352062	Marionette	INFO	Listening on port 40249
+1490456352437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456634359	geckodriver	INFO	Listening on 127.0.0.1:38639
+1490456635414	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wfrnCxcJuJDs
+1490456635415	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456635419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37791
+1490456636518	Marionette	INFO	Listening on port 37791
+1490456636945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456680214	geckodriver	INFO	Listening on 127.0.0.1:39781
+1490456681260	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JXcjM60NvsVS
+1490456681262	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456681268	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36145
+1490456682338	Marionette	INFO	Listening on port 36145
+1490456682830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490456862107	geckodriver	INFO	Listening on 127.0.0.1:37421
+1490456863158	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0LjhbwyAgv3m
+1490456863160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490456863165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46537
+1490456864298	Marionette	INFO	Listening on port 46537
+1490456864754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490457094908	geckodriver	INFO	Listening on 127.0.0.1:49549
+1490457095954	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.POJeoWF8bN8p
+1490457095955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457095959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39647
+1490457097041	Marionette	INFO	Listening on port 39647
+1490457097447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490457226590	geckodriver	INFO	Listening on 127.0.0.1:38995
+1490457227638	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Zhqmr4oiUtEm
+1490457227640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457227644	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43677
+1490457228759	Marionette	INFO	Listening on port 43677
+1490457229149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490457291512	geckodriver	INFO	Listening on 127.0.0.1:46839
+1490457292560	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vGSTSjVfhvJZ
+1490457292561	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457292566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44363
+1490457295231	geckodriver	INFO	Listening on 127.0.0.1:52423
+1490457296282	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tpEAQ1emDJry
+1490457296283	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457296287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35057
+1490457297423	Marionette	INFO	Listening on port 35057
+1490457299420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490457416503	geckodriver	INFO	Listening on 127.0.0.1:47925
+1490457417549	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B2GiLFuyNrme
+1490457417550	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457417555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42063
+1490457418899	Marionette	INFO	Listening on port 42063
+1490457419324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490457489634	geckodriver	INFO	Listening on 127.0.0.1:46589
+1490457490684	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vt4zzJxuQlGK
+1490457490685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457490691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41941
+1490457491839	Marionette	INFO	Listening on port 41941
+1490457492243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490457628104	geckodriver	INFO	Listening on 127.0.0.1:42939
+1490457629155	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2pkYRpXfxgFA
+1490457629156	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457629160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34183
+1490457630257	Marionette	INFO	Listening on port 34183
+1490457630681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490457727130	geckodriver	INFO	Listening on 127.0.0.1:44415
+1490457728176	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KXr4c7Iej5MH
+1490457728178	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457728181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37745
+1490457729235	Marionette	INFO	Listening on port 37745
+1490457729659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490457773641	geckodriver	INFO	Listening on 127.0.0.1:50727
+1490457774690	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1pnPud0MVeJs
+1490457774692	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490457774695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44203
+1490457776433	Marionette	INFO	Listening on port 44203
+1490457777009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490458042049	geckodriver	INFO	Listening on 127.0.0.1:36197
+1490458043100	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u2ffKiVe6Eld
+1490458043101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490458043103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45377
+1490458044846	Marionette	INFO	Listening on port 45377
+1490458045706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490458326538	geckodriver	INFO	Listening on 127.0.0.1:54933
+1490458327585	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a9FrzlMeZzv7
+1490458327586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490458327590	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34429
+1490458328703	Marionette	INFO	Listening on port 34429
+1490458329110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490458593684	geckodriver	INFO	Listening on 127.0.0.1:36919
+1490458594734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VnD4dNqhO7TL
+1490458594735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490458594737	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45123
+1490458595995	Marionette	INFO	Listening on port 45123
+1490458596735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490458717740	geckodriver	INFO	Listening on 127.0.0.1:54643
+1490458718787	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YjE4T9FrkZut
+1490458718788	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490458718791	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45475
+1490458720493	Marionette	INFO	Listening on port 45475
+1490458721306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490458904669	geckodriver	INFO	Listening on 127.0.0.1:34813
+1490458905915	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SYJvdiJTECDu
+1490458905917	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490458905922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37709
+1490458907451	Marionette	INFO	Listening on port 37709
+1490458907870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490459097619	geckodriver	INFO	Listening on 127.0.0.1:53813
+1490459098781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gWN2VNEsmmlm
+1490459098783	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459098791	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35413
+1490459100223	Marionette	INFO	Listening on port 35413
+1490459100697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490459361959	geckodriver	INFO	Listening on 127.0.0.1:38833
+1490459363049	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gNFOBZs8ZSrH
+1490459363051	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459363053	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46001
+1490459364194	Marionette	INFO	Listening on port 46001
+1490459364655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490459406401	geckodriver	INFO	Listening on 127.0.0.1:50935
+1490459407483	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yKjsDceO0XKN
+1490459407485	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459407488	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38601
+1490459408534	Marionette	INFO	Listening on port 38601
+1490459408938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490459509976	geckodriver	INFO	Listening on 127.0.0.1:55797
+1490459511020	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.y8KjXGMxYbI2
+1490459511022	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459511024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36401
+1490459513631	Marionette	INFO	Listening on port 36401
+1490459516087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490459578528	geckodriver	INFO	Listening on 127.0.0.1:60903
+1490459579576	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D3mG6UZJ5Lpf
+1490459579577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459579582	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44819
+1490459581036	Marionette	INFO	Listening on port 44819
+1490459581470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490459734957	geckodriver	INFO	Listening on 127.0.0.1:46263
+1490459736022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tZo5ec5UH7hI
+1490459736024	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490459736031	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41973
+1490459737268	Marionette	INFO	Listening on port 41973
+1490459737753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 135ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/152, type getMediaRules failed
+
+Request stack:
+Front<.request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1225:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1363:14
+StyleSheetEditor@resource://devtools/client/styleeditor/StyleSheetEditor.jsm:130:5
+StyleEditorUI.prototype._addStyleSheetEditor<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:344:18
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+TaskImpl@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:273:3
+createAsyncFunction/asyncFunction@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:247:14
+StyleEditorUI.prototype._addStyleSheet<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:303:24
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+TaskImpl@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:273:3
+createAsyncFunction/asyncFunction@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:247:14
+StyleEditorUI.prototype._resetStyleSheetList<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:252:15
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:312:39
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+  Stack:
+    Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1172:23
+StyleSheetFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Pool<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:819:9
+Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1174:5
+StyleEditorPanel.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/styleeditor/styleeditor-panel.js:143:7
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/event-emitter.js:191:13
+TabTarget.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/target.js:600:5
+Toolbox.prototype.destroy/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2217:18
+
+console.warn: Could not fetch the source for http://user.a.cn/media/yun3/Content/A.custom-rtl.min.css.pagespeed.cf.5rmPuzCGN5.css, the editor was destroyed
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/152, type getText failed
+
+Request stack:
+Front<.request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1225:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1363:14
+StyleSheetEditor.prototype._getSourceTextAndPrettify@resource://devtools/client/styleeditor/StyleSheetEditor.jsm:271:12
+StyleSheetEditor.prototype.fetchSource@resource://devtools/client/styleeditor/StyleSheetEditor.jsm:291:12
+StyleEditorUI.prototype._addStyleSheetEditor<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:355:11
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+TaskImpl@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:273:3
+createAsyncFunction/asyncFunction@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:247:14
+StyleEditorUI.prototype._addStyleSheet<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:303:24
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+TaskImpl@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:273:3
+createAsyncFunction/asyncFunction@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:247:14
+StyleEditorUI.prototype._resetStyleSheetList<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:252:15
+TaskImpl.prototype._run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:312:39
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+  Stack:
+    Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1172:23
+StyleSheetFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+Pool<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:819:9
+Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1174:5
+StyleEditorPanel.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/styleeditor/styleeditor-panel.js:143:7
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/event-emitter.js:191:13
+TabTarget.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/target.js:600:5
+Toolbox.prototype.destroy/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2217:18
+
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1717:11
+LocalDebuggerTransport.prototype.send/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1717, column: 11
+1490460013070	geckodriver	INFO	Listening on 127.0.0.1:48401
+1490460014113	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZmnbbMusCSr1
+1490460014114	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460014116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45981
+1490460015195	Marionette	INFO	Listening on port 45981
+1490460015635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460193846	geckodriver	INFO	Listening on 127.0.0.1:41491
+1490460194897	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wDPvgV12mrdf
+1490460194898	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460194902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40009
+1490460196022	Marionette	INFO	Listening on port 40009
+1490460196419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460247603	geckodriver	INFO	Listening on 127.0.0.1:43227
+1490460248650	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mXbUPAQWtT0O
+1490460248651	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460248654	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45999
+1490460249688	Marionette	INFO	Listening on port 45999
+1490460250095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460358366	geckodriver	INFO	Listening on 127.0.0.1:42793
+1490460359416	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pXno34hSlGGW
+1490460359418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460359421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36799
+1490460360485	Marionette	INFO	Listening on port 36799
+1490460360904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460543757	geckodriver	INFO	Listening on 127.0.0.1:43975
+1490460544803	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lSvuqeIMZUoi
+1490460544805	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460544808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44905
+1490460546569	Marionette	INFO	Listening on port 44905
+1490460547171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460609370	geckodriver	INFO	Listening on 127.0.0.1:47679
+1490460610606	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HrSqgv4fEJzh
+1490460610608	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460610718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37793
+1490460612230	Marionette	INFO	Listening on port 37793
+1490460612620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+[Child 44611] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 44611] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490460660336	geckodriver	INFO	Listening on 127.0.0.1:36199
+1490460661383	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GKSLREPqdJQi
+1490460661385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460661391	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43645
+1490460662454	Marionette	INFO	Listening on port 43645
+1490460662878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460694586	geckodriver	INFO	Listening on 127.0.0.1:53825
+1490460695632	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kL3mNT4d0aHW
+1490460695632	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460695636	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43457
+1490460696714	Marionette	INFO	Listening on port 43457
+1490460697093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460783501	geckodriver	INFO	Listening on 127.0.0.1:53681
+1490460784545	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e7CzGtxMVzOR
+1490460784547	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460784551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33581
+1490460785617	Marionette	INFO	Listening on port 33581
+1490460786052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460826343	geckodriver	INFO	Listening on 127.0.0.1:53425
+1490460827390	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.21k2WJ0jwJvu
+1490460827392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460827396	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37063
+1490460828465	Marionette	INFO	Listening on port 37063
+1490460828875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490460906622	geckodriver	INFO	Listening on 127.0.0.1:39595
+1490460907669	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.neQa0gzGqBNo
+1490460907671	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490460907676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45323
+1490460908711	Marionette	INFO	Listening on port 45323
+1490460909364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461048422	geckodriver	INFO	Listening on 127.0.0.1:43061
+1490461049470	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lsHECbzbMsjS
+1490461049472	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461049475	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39915
+1490461050668	Marionette	INFO	Listening on port 39915
+1490461051041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461086010	geckodriver	INFO	Listening on 127.0.0.1:37949
+1490461087059	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vxkQclFXiO4Z
+1490461087061	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461087064	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43159
+1490461088124	Marionette	INFO	Listening on port 43159
+1490461088500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461296627	geckodriver	INFO	Listening on 127.0.0.1:34335
+1490461297673	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QGXrb9IhjkJX
+1490461297675	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461297678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45663
+1490461298778	Marionette	INFO	Listening on port 45663
+1490461299164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461329475	geckodriver	INFO	Listening on 127.0.0.1:42707
+1490461330703	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.j1ENHbo5CYgC
+1490461330708	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461330714	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36815
+1490461331884	Marionette	INFO	Listening on port 36815
+1490461332320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461407540	geckodriver	INFO	Listening on 127.0.0.1:43803
+1490461408586	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.18N626xmvlfo
+1490461408587	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461408591	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46597
+1490461411348	geckodriver	INFO	Listening on 127.0.0.1:59545
+1490461412394	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ae8BYwzYoWyK
+1490461412394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461412398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36683
+1490461413887	Marionette	INFO	Listening on port 36683
+1490461414341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490461473472	geckodriver	INFO	Listening on 127.0.0.1:49423
+1490461474522	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8LrysM1PD88j
+1490461474523	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461474527	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35217
+1490461475626	Marionette	INFO	Listening on port 35217
+1490461476146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490461592706	geckodriver	INFO	Listening on 127.0.0.1:45835
+1490461593763	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OjrBFeE3IbBm
+1490461593766	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461593769	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43057
+1490461597583	geckodriver	INFO	Listening on 127.0.0.1:56289
+1490461598716	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ybsccnhdjY74
+1490461598721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461598730	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35531
+1490461600274	Marionette	INFO	Listening on port 35531
+1490461600785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490461700123	geckodriver	INFO	Listening on 127.0.0.1:46657
+1490461701172	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ddI9u7spSKLh
+1490461701173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490461701177	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41127
+1490461702532	Marionette	INFO	Listening on port 41127
+1490461702940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 261ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:46373): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1490462172629	geckodriver	INFO	Listening on 127.0.0.1:55959
+1490462173768	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ezj2Whqwstqh
+1490462173770	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462173773	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40627
+1490462176151	Marionette	INFO	Listening on port 40627
+1490462177287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490462221050	geckodriver	INFO	Listening on 127.0.0.1:46459
+1490462221115	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5EHItYZfo4GK
+1490462221117	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462221121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37331
+1490462222435	Marionette	INFO	Listening on port 37331
+1490462222872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462400787	geckodriver	INFO	Listening on 127.0.0.1:35861
+1490462401833	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RlPEE34htdvw
+1490462401834	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462401842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42621
+1490462402924	Marionette	INFO	Listening on port 42621
+1490462403323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462440901	geckodriver	INFO	Listening on 127.0.0.1:48369
+1490462441944	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mvjPrhj0dCJI
+1490462441945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462441949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36849
+1490462443030	Marionette	INFO	Listening on port 36849
+1490462443436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462495017	geckodriver	INFO	Listening on 127.0.0.1:40849
+1490462496065	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TLu0s8ZWkgPk
+1490462496067	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462496072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34041
+1490462497712	Marionette	INFO	Listening on port 34041
+1490462498087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462564673	geckodriver	INFO	Listening on 127.0.0.1:42591
+1490462565819	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Dub01LH2KqLP
+1490462565823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462565827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38813
+1490462567206	Marionette	INFO	Listening on port 38813
+1490462567605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor12
+1490462613582	geckodriver	INFO	Listening on 127.0.0.1:33177
+1490462614813	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NzVIBL6ZY7n5
+1490462614817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462614828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45003
+1490462616192	Marionette	INFO	Listening on port 45003
+1490462616801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462752241	geckodriver	INFO	Listening on 127.0.0.1:50025
+1490462753288	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VqdUTuoZwqZW
+1490462753291	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462753295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41893
+1490462754329	Marionette	INFO	Listening on port 41893
+1490462754731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490462807457	geckodriver	INFO	Listening on 127.0.0.1:57783
+1490462808508	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GtmPdwEchS2m
+1490462808510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462808515	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39069
+1490462809560	Marionette	INFO	Listening on port 39069
+1490462809958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462922121	geckodriver	INFO	Listening on 127.0.0.1:37663
+1490462923169	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LKGhav958jzd
+1490462923170	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462923175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33571
+1490462924206	Marionette	INFO	Listening on port 33571
+1490462924610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490462982650	geckodriver	INFO	Listening on 127.0.0.1:52737
+1490462983696	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KkVk3Evewt3q
+1490462983698	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490462983702	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39865
+1490462984758	Marionette	INFO	Listening on port 39865
+1490462985177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463019183	geckodriver	INFO	Listening on 127.0.0.1:50475
+1490463020230	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HzWIanUv5sgo
+1490463020231	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463020235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42859
+1490463021259	Marionette	INFO	Listening on port 42859
+1490463021667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463288979	geckodriver	INFO	Listening on 127.0.0.1:45395
+1490463290027	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bFxrdUXBe8Nn
+1490463290028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463290032	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43977
+1490463291113	Marionette	INFO	Listening on port 43977
+1490463291490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463317041	geckodriver	INFO	Listening on 127.0.0.1:47277
+1490463318092	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QBVe9482GvT5
+1490463318094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463318098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35969
+1490463319147	Marionette	INFO	Listening on port 35969
+1490463319559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463396837	geckodriver	INFO	Listening on 127.0.0.1:38141
+1490463397882	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r2VlM6JeBJwA
+1490463397884	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463397887	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36687
+1490463399006	Marionette	INFO	Listening on port 36687
+1490463399491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463540108	geckodriver	INFO	Listening on 127.0.0.1:59071
+1490463541253	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OGI40YSidtNR
+1490463541258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463541265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42597
+1490463542741	Marionette	INFO	Listening on port 42597
+1490463543224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463589702	geckodriver	INFO	Listening on 127.0.0.1:48365
+1490463590752	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yuQy1xueeJ8V
+1490463590753	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463590756	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41259
+1490463591825	Marionette	INFO	Listening on port 41259
+1490463592265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463619536	geckodriver	INFO	Listening on 127.0.0.1:49705
+1490463620740	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gCGy3OO7hJHy
+1490463620742	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463620754	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37361
+1490463622231	Marionette	INFO	Listening on port 37361
+1490463622682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463735638	geckodriver	INFO	Listening on 127.0.0.1:37477
+1490463736680	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e1cY1Y3ZJaGD
+1490463736681	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463736684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41687
+1490463737722	Marionette	INFO	Listening on port 41687
+1490463738100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490463775624	geckodriver	INFO	Listening on 127.0.0.1:40655
+1490463776794	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4zrATjsiNgpi
+1490463776796	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490463776809	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46175
+1490463779661	Marionette	INFO	Listening on port 46175
+1490463780212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490497027875	geckodriver	INFO	Listening on 127.0.0.1:47507
+1490497027991	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.haKrVEa8wUGZ
+1490497027992	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497028007	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44605
+1490497030230	Marionette	INFO	Listening on port 44605
+1490497030736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490497489634	geckodriver	INFO	Listening on 127.0.0.1:56061
+1490497490686	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OcMfsx03Vz6e
+1490497490687	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497490691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38109
+1490497491829	Marionette	INFO	Listening on port 38109
+1490497492294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497596222	geckodriver	INFO	Listening on 127.0.0.1:57351
+1490497597420	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sZSwChI4i0OK
+1490497597423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497597432	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46101
+1490497598717	Marionette	INFO	Listening on port 46101
+1490497599112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497657626	geckodriver	INFO	Listening on 127.0.0.1:43141
+1490497658731	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.12hdXBuNRB6Q
+1490497658733	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497658747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44177
+1490497660087	Marionette	INFO	Listening on port 44177
+1490497660601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497766027	geckodriver	INFO	Listening on 127.0.0.1:34817
+1490497767102	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tR0wFIk3Udth
+1490497767103	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497767106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42449
+1490497768606	Marionette	INFO	Listening on port 42449
+1490497769034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497813170	geckodriver	INFO	Listening on 127.0.0.1:59657
+1490497814214	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.f89sEkG8yXcD
+1490497814215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497814218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40001
+1490497815306	Marionette	INFO	Listening on port 40001
+1490497815901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497847735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490497849999	geckodriver	INFO	Listening on 127.0.0.1:55951
+1490497851046	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jXGi3f0TdI2s
+1490497851048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497851054	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37903
+1490497852340	Marionette	INFO	Listening on port 37903
+1490497852762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490497881218	geckodriver	INFO	Listening on 127.0.0.1:56577
+1490497882267	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.guXKi2Hv8N4f
+1490497882269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490497882272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39603
+1490497883919	Marionette	INFO	Listening on port 39603
+1490497884333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498029895	geckodriver	INFO	Listening on 127.0.0.1:51889
+1490498030953	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RkrV6X84dQkO
+1490498030954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498030960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38031
+1490498032056	Marionette	INFO	Listening on port 38031
+1490498032476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498219648	geckodriver	INFO	Listening on 127.0.0.1:33179
+1490498220706	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6bcUluw3tlQ3
+1490498220709	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498220712	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33245
+1490498222079	Marionette	INFO	Listening on port 33245
+1490498222803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498263952	geckodriver	INFO	Listening on 127.0.0.1:53729
+1490498265031	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LXPIBxvxstdC
+1490498265033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498265038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35447
+1490498266539	Marionette	INFO	Listening on port 35447
+1490498266975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498397460	geckodriver	INFO	Listening on 127.0.0.1:60671
+1490498398506	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qf97m62ClBOm
+1490498398507	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498398511	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44061
+1490498400305	geckodriver	INFO	Listening on 127.0.0.1:33531
+1490498401364	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cAP3Rmbx7TmJ
+1490498401366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498401375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45381
+1490498402533	Marionette	INFO	Listening on port 45381
+1490498402925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490498462391	geckodriver	INFO	Listening on 127.0.0.1:46981
+1490498463473	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CUTd5jZO4ySY
+1490498463475	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498463477	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32917
+1490498465578	Marionette	INFO	Listening on port 32917
+1490498466119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498471022	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+console.error: 
+  Message: Error: Failed to fetch http://user.a.cn/media/artDialog/skins/chrome.css?4.1.6. Code 2152398850.
+  Stack:
+    mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+
+mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 2508: TypeError: can't access dead object
+1490498875706	geckodriver	INFO	Listening on 127.0.0.1:35609
+1490498876752	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UTqaBB7qCNt2
+1490498876753	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498876757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44161
+1490498877829	Marionette	INFO	Listening on port 44161
+1490498878248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490498927119	geckodriver	INFO	Listening on 127.0.0.1:48319
+1490498928320	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PgxAmfxE0g6o
+1490498928323	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498928334	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41093
+1490498929818	Marionette	INFO	Listening on port 41093
+1490498930275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490498984765	geckodriver	INFO	Listening on 127.0.0.1:47595
+1490498985814	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TkAxZDXkqbQr
+1490498985815	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490498985819	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39481
+1490498987123	Marionette	INFO	Listening on port 39481
+1490498987519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490499112626	geckodriver	INFO	Listening on 127.0.0.1:45917
+1490499113793	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JnLTGib5nDz0
+1490499113796	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490499113805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45877
+1490499115511	Marionette	INFO	Listening on port 45877
+1490499116063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490499179458	geckodriver	INFO	Listening on 127.0.0.1:47773
+1490499180504	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pdYA1eSAN1Hq
+1490499180505	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490499180508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38561
+1490499181555	Marionette	INFO	Listening on port 38561
+1490499181955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490499252180	geckodriver	INFO	Listening on 127.0.0.1:37205
+1490499253351	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JTkewKJ6MPUX
+1490499253355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490499253368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37501
+1490499254616	Marionette	INFO	Listening on port 37501
+1490499254986	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490499255198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490500114224	geckodriver	INFO	Listening on 127.0.0.1:52783
+1490500115273	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QCtjC11bOVlX
+1490500115273	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500115278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38265
+1490500116365	Marionette	INFO	Listening on port 38265
+1490500116794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+
+(firefox:52253): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1490500183202	geckodriver	INFO	Listening on 127.0.0.1:47161
+1490500184251	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B7yWowOOkXjh
+1490500184252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500184256	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43447
+1490500185302	Marionette	INFO	Listening on port 43447
+1490500185689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490500218496	geckodriver	INFO	Listening on 127.0.0.1:49825
+1490500219543	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mcloZKRX0wZ5
+1490500219544	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500219548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34749
+1490500220620	Marionette	INFO	Listening on port 34749
+1490500221061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490500281548	geckodriver	INFO	Listening on 127.0.0.1:57553
+1490500282596	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KlW7qwpJhJ4u
+1490500282597	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500282601	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45925
+1490500283689	Marionette	INFO	Listening on port 45925
+1490500284114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490500318626	geckodriver	INFO	Listening on 127.0.0.1:36797
+1490500319689	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gU4nbLoxIG2Q
+1490500319691	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500319696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34673
+1490500320810	Marionette	INFO	Listening on port 34673
+1490500321223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490500831547	geckodriver	INFO	Listening on 127.0.0.1:39217
+1490500832592	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ARfMNF0p9gsN
+1490500832593	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490500832598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36541
+1490500833800	Marionette	INFO	Listening on port 36541
+1490500834203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490501285668	geckodriver	INFO	Listening on 127.0.0.1:33287
+1490501286826	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AEQpQRKpWLEj
+1490501286830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490501286837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42043
+1490501288141	Marionette	INFO	Listening on port 42043
+1490501288537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490501378880	geckodriver	INFO	Listening on 127.0.0.1:41743
+1490501379927	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vurLglmww2Nu
+1490501379928	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490501379933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37817
+1490501380992	Marionette	INFO	Listening on port 37817
+1490501381383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490501421262	geckodriver	INFO	Listening on 127.0.0.1:33965
+1490501421329	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YstV2q50pb9L
+1490501421330	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490501421334	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38775
+1490501423304	Marionette	INFO	Listening on port 38775
+1490501423740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490501626982	geckodriver	INFO	Listening on 127.0.0.1:49561
+1490501628032	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.npBXZWeKdV5B
+1490501628033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490501628039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39391
+1490501629258	Marionette	INFO	Listening on port 39391
+1490501629672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490501679212	geckodriver	INFO	Listening on 127.0.0.1:48849
+1490501680264	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dhUzZdNMlCUS
+1490501680265	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490501680273	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45221
+1490501681447	Marionette	INFO	Listening on port 45221
+1490501681910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490517538287	geckodriver	INFO	Listening on 127.0.0.1:53169
+1490517539364	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jpwT3UazSoU1
+1490517539365	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490517539368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37941
+1490517541268	Marionette	INFO	Listening on port 37941
+1490517541957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490517663226	geckodriver	INFO	Listening on 127.0.0.1:37881
+1490517664483	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MPCeW0SLsysc
+1490517664486	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490517664509	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38453
+1490517666617	Marionette	INFO	Listening on port 38453
+1490517667105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490518629675	geckodriver	INFO	Listening on 127.0.0.1:35789
+1490518630731	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Cl0HEPNo0E3e
+1490518630733	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490518630736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44253
+1490518632176	Marionette	INFO	Listening on port 44253
+1490518633066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/media/js/dashboard.js, line 15: TypeError: version[1] is undefined
+1490518911471	geckodriver	INFO	Listening on 127.0.0.1:43795
+1490518911530	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3vhEVMeuaDeL
+1490518911531	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490518911538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45521
+1490518913712	Marionette	INFO	Listening on port 45521
+1490518914180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519041091	geckodriver	INFO	Listening on 127.0.0.1:33105
+1490519042252	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q1vNR8xt5wtp
+1490519042254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519042263	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36279
+1490519043812	Marionette	INFO	Listening on port 36279
+1490519044264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519085049	geckodriver	INFO	Listening on 127.0.0.1:59249
+1490519086108	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DiDzBi0psAVf
+1490519086109	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519086111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44511
+1490519087303	Marionette	INFO	Listening on port 44511
+1490519087905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519127924	geckodriver	INFO	Listening on 127.0.0.1:53477
+1490519128977	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NhxZoSAvztTj
+1490519128979	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519129009	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34883
+1490519132166	Marionette	INFO	Listening on port 34883
+1490519135138	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56593] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 56593] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 56593] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 56704] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 56704] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490519331844	geckodriver	INFO	Listening on 127.0.0.1:38009
+1490519332894	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5Vy7yCIurWD2
+1490519332896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519332900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34977
+1490519334904	Marionette	INFO	Listening on port 34977
+1490519335363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519382514	geckodriver	INFO	Listening on 127.0.0.1:48189
+1490519383577	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O85IUparvN5k
+1490519383579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519383581	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34137
+1490519385206	Marionette	INFO	Listening on port 34137
+1490519386109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519424185	geckodriver	INFO	Listening on 127.0.0.1:44751
+1490519425245	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2avVIj7qiT3y
+1490519425248	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519425253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38419
+1490519427776	Marionette	INFO	Listening on port 38419
+1490519430882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490519481201	geckodriver	INFO	Listening on 127.0.0.1:49469
+1490519484460	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.buiyV7rvAMGB
+1490519484461	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490519484509	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45331
+1490519489880	Marionette	INFO	Listening on port 45331
+1490519490426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://user.a.cn/index.php?c=dashboard line 54 > eval, line 1: TypeError: version[1] is undefined
+1490526956254	geckodriver	INFO	Listening on 127.0.0.1:59951
+1490526957343	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EsjoOtZ4ZRei
+1490526957344	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490526957371	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45693
+1490526962664	Marionette	INFO	Listening on port 45693
+1490526963424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490526999765	geckodriver	INFO	Listening on 127.0.0.1:58573
+1490527000841	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a3OJtAorPjvs
+1490527000844	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527000865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38693
+1490527002340	Marionette	INFO	Listening on port 38693
+1490527003606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527032348	geckodriver	INFO	Listening on 127.0.0.1:39439
+1490527033445	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ngGyC2aI4u8m
+1490527033447	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527033450	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45031
+1490527034889	Marionette	INFO	Listening on port 45031
+1490527036333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527070370	geckodriver	INFO	Listening on 127.0.0.1:40375
+1490527071445	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.txchqfGW4X3z
+1490527071448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527071453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35645
+1490527073792	Marionette	INFO	Listening on port 35645
+1490527075100	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 58312] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58312] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 58430] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58430] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 58552] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58552] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58552] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490527223132	geckodriver	INFO	Listening on 127.0.0.1:40203
+1490527224203	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BMzegoqWWkZw
+1490527224205	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527224210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44437
+1490527226186	Marionette	INFO	Listening on port 44437
+1490527226813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527277591	Marionette	INFO	New connections will no longer be accepted
+[Child 58758] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58758] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58758] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58758] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490527298290	geckodriver	INFO	Listening on 127.0.0.1:41645
+1490527299367	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KVCuDqmeFy2H
+1490527299368	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527299375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39515
+1490527301182	Marionette	INFO	Listening on port 39515
+1490527301835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527354454	Marionette	INFO	New connections will no longer be accepted
+[Child 58881] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58881] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58881] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58881] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490527354550	geckodriver	INFO	Listening on 127.0.0.1:57787
+1490527355619	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fsNV5JJ9e1MM
+1490527355620	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527355625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46393
+1490527357546	Marionette	INFO	Listening on port 46393
+1490527358184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527413049	Marionette	INFO	New connections will no longer be accepted
+[Child 58997] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58997] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 58997] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 58997] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490527413119	geckodriver	INFO	Listening on 127.0.0.1:54761
+1490527414206	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WB3xZVizCFx1
+1490527414208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527414213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33849
+1490527416007	Marionette	INFO	Listening on port 33849
+1490527416666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527474742	Marionette	INFO	New connections will no longer be accepted
+[Child 59118] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59118] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59118] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 59118] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+1490527474825	geckodriver	INFO	Listening on 127.0.0.1:49803
+1490527475886	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4icrrDZusaug
+1490527475888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527475892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33215
+1490527477724	Marionette	INFO	Listening on port 33215
+1490527478404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527533952	Marionette	INFO	New connections will no longer be accepted
+[Child 59237] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59237] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59237] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 59237] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1490527534030	geckodriver	INFO	Listening on 127.0.0.1:50581
+1490527535099	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xq7HZV75ap3T
+1490527535100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527535109	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45875
+1490527536950	Marionette	INFO	Listening on port 45875
+1490527537624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527591291	Marionette	INFO	New connections will no longer be accepted
+[Child 59352] WARNING: pipe error: 断开的管道: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 59352] WARNING: pipe error: 断开的管道: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 59352] WARNING: pipe error: 断开的管道: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 59352] WARNING: pipe error: 断开的管道: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 59352] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59352] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 59352] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1490527591417	geckodriver	INFO	Listening on 127.0.0.1:39963
+1490527592447	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Rk267NFNUW1O
+1490527592448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490527592453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39785
+1490527594323	Marionette	INFO	Listening on port 39785
+1490527594943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1490527648000	Marionette	INFO	New connections will no longer be accepted
+[Child 59468] WARNING: pipe error (14): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59468] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 59468] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+[Child 59468] ###!!! ABORT: Aborting on channel error.: file /build/firefox-ZWwcnj/firefox-52.0.1+build2/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1490530012980	geckodriver	INFO	Listening on 127.0.0.1:48441
+1490530015036	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.k57Yxtzgw42f
+1490530015047	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530015089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48451
+1490530016826	Marionette	INFO	Listening on port 48451
+[NPAPI 7724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 7724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23200] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530056425	geckodriver	INFO	Listening on 127.0.0.1:48672
+1490530058456	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.uNYactaQ5XeD
+1490530058468	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530058482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48679
+1490530059654	Marionette	INFO	Listening on port 48679
+[NPAPI 12108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 12108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9852] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530097648	geckodriver	INFO	Listening on 127.0.0.1:48878
+1490530099703	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.yRSRPK4R4m6u
+1490530099724	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530099747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48886
+1490530101647	Marionette	INFO	Listening on port 48886
+[Child 16692] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530145383	geckodriver	INFO	Listening on 127.0.0.1:49087
+1490530147415	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.MwCxBWLTob4A
+1490530147430	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530147449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49096
+1490530149379	Marionette	INFO	Listening on port 49096
+[NPAPI 28600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17612] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530189978	geckodriver	INFO	Listening on 127.0.0.1:49362
+1490530192005	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.JSB0jL5IlTn0
+1490530192025	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530192045	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49373
+1490530193295	Marionette	INFO	Listening on port 49373
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 18492] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[NPAPI 5480] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530227701	geckodriver	INFO	Listening on 127.0.0.1:49602
+1490530229754	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.nH5cxe5MvqEj
+1490530229770	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530229830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49611
+1490530231593	Marionette	INFO	Listening on port 49611
+[NPAPI 18932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 18932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13492] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490530490714	geckodriver	INFO	Listening on 127.0.0.1:50192
+1490530492760	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.HdskpxzoZMi9
+1490530492777	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530492794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50202
+1490530493950	Marionette	INFO	Listening on port 50202
+[NPAPI 27472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 27472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490530653238	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490530653252	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490530653254	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 26520] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[NPAPI 21464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 21464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490530740189	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 28932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490530740204	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490530740206	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490530748746	geckodriver	INFO	Listening on 127.0.0.1:50864
+1490530750770	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.445iS6E5iYdG
+1490530750785	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490530750808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50874
+1490530752011	Marionette	INFO	Listening on port 50874
+[NPAPI 15356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 15356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490531020025	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490531020040	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19096] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490531020049	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490531026206	geckodriver	INFO	Listening on 127.0.0.1:51552
+1490531028246	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.Dty2FYLNRlOt
+1490531028262	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490531028283	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51560
+1490531029416	Marionette	INFO	Listening on port 51560
+[NPAPI 19996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490531103560	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490531103568	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 26028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490531103583	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490531429324	geckodriver	INFO	Listening on 127.0.0.1:52486
+1490531431336	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.YQd3CcScHyVF
+1490531431347	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490531431375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52496
+1490531433183	Marionette	INFO	Listening on port 52496
+[NPAPI 8360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 8360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 5880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ionette on localhost:53598
+1490531872865	Marionette	INFO	Listening on port 53598
+[NPAPI 27256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 27256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1490531954991	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 4312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+e.PWUKeHVkI62j
+1490532443763	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490532443782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54806
+1490532444933	Marionette	INFO	Listening on port 54806
+[NPAPI 12576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 22284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ionette	INFO	Connecting to Marionette on localhost:57048
+1490533193356	Marionette	INFO	Listening on port 57048
+[NPAPI 28280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24672] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490533231155	geckodriver	INFO	Listening on 127.0.0.1:57267
+1490533233175	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.37iUCa5J9JzZ
+1490533233188	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490533233206	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57276
+1490533234250	Marionette	INFO	Listening on port 57276
+[NPAPI 5468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11976] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490533271516	geckodriver	INFO	Listening on 127.0.0.1:57496
+1490533273528	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.W5Wh8e8a77ti
+1490533273552	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490533273566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57505
+1490533274804	Marionette	INFO	Listening on port 57505
+[Child 20372] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490533317468	geckodriver	INFO	Listening on 127.0.0.1:57761
+1490533319494	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.yZuoGPnnZE0Y
+1490533319508	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490533319525	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57771
+1490533321031	Marionette	INFO	Listening on port 57771
+[NPAPI 26444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 26444] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8460] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490533362799	geckodriver	INFO	Listening on 127.0.0.1:57987
+1490533364846	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.Lly1Y2TQK7Gv
+1490533364864	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490533364888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57997
+1490533366631	Marionette	INFO	Listening on port 57997
+[NPAPI 15332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19528] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1490533407359	geckodriver	INFO	Listening on 127.0.0.1:58198
+1490533409398	mozprofile::profile	INFO	Using profile path C:\Users\Derek.S\.babun\cygwin\tmp\rust_mozprofile.ToO1sjwMWmsI
+1490533409417	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490533409435	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58206
+1490533410885	Marionette	INFO	Listening on port 58206
+[NPAPI 13484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1140] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
