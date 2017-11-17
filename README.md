@@ -1,1 +1,16 @@
-# IMNewsAutomaticP
+# 内蒙古要闻栏目爬虫及网站自动发布
+
+开发环境：Python 2.7 + SQLite + Selenium
+功能：将内蒙古某网站要闻栏目新闻爬行至数据库并自动发布至海区某网站。
+
+爬虫部分使用Urllib2+BeautifulSoup+re进行开发。
+正则表达式用于判断页码等信息。
+
+写入SQLite3本地数据库。
+
+自动发布部分由于海区某网站后台大范围使用iFrame和Ajax等技术。
+所以自动发布才用Selenium来进行浏览器直接操作。
+
+防爬虫部分才用随机间隔时间和模仿useragent来进行规避。
+
+目前为1.2版本。
